@@ -13,8 +13,19 @@ font-size: 70px;
 }
 .Introduction {
   display: inline-block;
-  width: 1600px;
+  width: 1500px;
   height: 370px;
   background-size: cover;
   background-image: url("file:///C:/Users/Nicolas/Documents/Projects%20CA/WEEK%204/Broadway/images/broadwayimage.png");
+}
+.Middle h3 {
+  font-weight: bold;
+  font-size: 32px;
+}
+.Middle h4 {
+  font-weight: bold;
+  font-size: 23px;
+}
+.Middle p {
+  font-size: 14px;
 }
