@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+h1 {
+font-size: 70px;
+  color: white;
+  font-weight: bold;
+}
+.Introduction p a {
+  font-size: 18px;
+  color: white;
+}
+.Introduction {
+  display: inline-block;
+  width: 1600px;
+  height: 370px;
+  background-size: cover;
+  background-image: url("file:///C:/Users/Nicolas/Documents/Projects%20CA/WEEK%204/Broadway/images/broadwayimage.png");
+}
