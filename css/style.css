@@ -29,3 +29,28 @@ font-size: 70px;
 .Middle p {
   font-size: 14px;
 }
+.banner {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("file:///C:/Users/Nicolas/Documents/Projects%20CA/WEEK%204/Broadway/images/broadwayimage.png");
+}
+.End p {
+  font-size: 14px;
+}
+.End h4 {
+  font-weight: bold;
+  font-size: 23px;
+}
+.epilogue
+{
+  background-color: dimgray;
+  color: white;
+}
+.epilogue p {
+  font-size: 11px;
+  text-align: left;
+}
+.epilogue u {
+  font-size: 18px;
+}
